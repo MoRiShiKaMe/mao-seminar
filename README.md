@@ -3,7 +3,7 @@
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
-
+生徒名
 生徒A
 生徒B
 生徒C
